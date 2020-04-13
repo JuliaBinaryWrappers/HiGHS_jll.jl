@@ -1,6 +1,6 @@
 name = "HiGHS_jll"
 uuid = "8fd58aa0-07eb-5a78-9b36-339c94fd15ea"
-version = "0.1.1+0"
+version = "0.1.2+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
