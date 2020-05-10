@@ -6,6 +6,7 @@ using CompilerSupportLibraries_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
+LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `libipx`
 const libipx_splitpath = ["lib", "libipx.dylib"]
