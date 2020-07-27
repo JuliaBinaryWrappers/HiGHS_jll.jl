@@ -1,714 +1,714 @@
 [[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba3153c527f22cd9eb43f0ee918831c0871169ba"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[HiGHS.download]]
-    sha256 = "753878a4994fc24b85a6b7b365e0a9a5e4b26dafb6bb464833b6b600aef9f613"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8a2efde6328c40eff70bc1e69bc343a081ce5ae4"
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0b86b5cbef4aa29139c07ffa6170984f3312986"
 libc = "glibc"
-libgfortran_version = "5.0.0"
+libgfortran_version = "3.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "0481bba70fee7515fae3dc1e894e1ffc1e7df503c15bf610c9b75c8d5123803e"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "35f8addfb2a32fec3548358a38a01d719969a725ea70d6fe2f5280adf096f879"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[HiGHS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04bc712986e11c9b4ce37d0545c89e494d3eddf3"
+git-tree-sha1 = "e9bc159f267a0cedb7606474cdacd8aeb7c0b5b6"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "bc5d0941b7773aca60fab50b6b477fac39045d84455ad7f26dced66ef9486aac"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f41696c0441ea246c24d1132eb2661835a956e7f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "69c2083efa89001a2d4dedf94e7e830c268e2283c9968996f9003edd79cba652"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "457f215e07d419c26cea9e94a0dd6b0c716f02b2"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "85529da1dbf3a7ae702d8679a93917dddb32b9991974ca6872ecfa0fddd81fc7"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "854b588023a6b50aca4abafe3a926a32babea5e2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "8d8845be5090202b14abea88682964e9f7f50b514463c0a703a0a54588ed4abd"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "121dc9fc069cc4aea8a775cc366906b67eb8899af35d9182abe8e2c3d5e3b814"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3bf4ad7cdfc219d4d34f444e116b830c19dbaf61"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "917d291b364f3daa863048372f39aa9546188bfe187da08f7a2e43414fb45e75"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aad89e308d5012a8b5d96c54fe4d0772c4853ea7"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "229eec45fb0aeec0e7c309f5544cfd34841fae9771a551cbc335570b2f567cb6"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "753dc0602c16ae8dce462abe0e70144e80494607"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "601de85d9a7afcab475a065485029edb541ee5942a93771b9ad130785bdb50da"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bf503ef069b8adcf5f117be554ca536032923b09"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "22ec42c00202f51bc659de18a0f73760b85cf31dfe64def4db4adf7485c5bb13"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44377e935d5b177f4176159b6bfd3627898ec9b3"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "8a2b790be90404413875731e32bef5c624db4e906961d97ff662a8c126320500"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59d3f2dec61b3ec8680db7ca8731dc90a3960ae3"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "d6f908bc80c057dbbaa09d6b74ce8f1cb1b3b7a95041172dc7be34f919d1cb42"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ec257e17f8ffd45933608a5567d42f1349859fb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "e7ae1af0ca70df9f1b58ec40e6d33bee8a9d072cc6492f03c10444df2f99a9f9"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3466e9a90c7e4ab42e00ea0f1509732b7984a575"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "0b2dc3351f5642e2ca9c5ceca17a746389f9523fa33f8eadc5eff0c890bbe5e1"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba9171013b6b0ff1600c7554c197b1da364b9383"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "1194ce863da5180e7de68a68d3974d1912fe6a9fff87484971cb08c203f93774"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c57b02cbf0aced801282c7a859e3345403aac3d3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "7231aa4a6b74e8fbc1a45787ec9302413384308f603c621320739982cd431867"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "285e51dd8d399d9fe956d906a5a4ffc3f99d664d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "340d9ee426c7bcdbb01bcc16ebf9c3d98289eda61855f8b5988c56de142524ad"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fd30539e8c5e0beb3995d02199854bef526d3eee"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "4e0ecb0ce8b946361a17f5aa2a04e17ce3f91e008a68beb0bd739d94f23bbbf8"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d100260ad16ebe3b770574a5512343774f6a543"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "c735e1c4b055628719ea88776e38b2877bbc90a3bfc28df17886f19dbbe32738"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5699ecc76ec9d38a06c5b657ff4db88b11327423"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "4125f7bee05025efaed37b8404bc97651c6dde816e42b1b3261379ec53d915ab"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3bba86adc9329731c99672afcf218e900420c7c3"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "4b61c4d15336fd142b74e95f2942c714c48eb1385478dfa3e047e8b7eb6dc48c"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed1dc7c5d316bc5a71d5dc78b3a160f6de989c0c"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "bc008e1ee213f3b2fc364debcd9db50e0ecc1ebd18be26ea56b6ae68bbdf3d15"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "050855da309d2c4b69e7f793cbcdcfc32df96708"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "4db49cb4a44aba4cf7b872fe1bdc58a57da16231bd2aad40a635ef2db459fd62"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60cd820f8d4c3f028517c2473c3753f8c0f7cfb8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "dad4560cc9dacc12371dc477d82dc68d71703c7bd724b7c3031fb6ac0d7310fb"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56116e58f046b5f992cfd1e010a4f2b7663e94f6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "dfcafd9c91e9a935068d781e2bf7ec44144eea09f1a0753e89ad94e9f3adfa8a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
 [[HiGHS]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e5f63404d0466391eb94fa341734009a4292798"
+git-tree-sha1 = "9b091e2b178a3f747b31763c15787148d790865e"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "0b4467d6e9f3c503a5d51b4fa43f9dfe50d7c70f11044325559909206311ef1c"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08cdcddef8973bef9433582d3015a5eedcf6ec73"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "814b9e69f23064bbfc2e3985710b577de7050a4847dbba9e809b185b04872bf6"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f055ef213e0e38f58280c2db78ffa3303f67b416"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "92c37a339aceff3b9d0f7f17c0ab417d7f1fd1603e45e868502577b87486b074"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1379db229c259c1df4965812416c30cd86719052"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "91e9f17ecf39aa5df65aeeff3dc8eb22075d766e02551bad1d35d219d79be650"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed0513235796af6255136e991aef02c3d7249b09"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "06483ae8e873f520b9ea85b068c3bb9dd59ac06fb0fb55e2a111a983fa808fdd"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9795ebbc4c968f148ed67badc5d6f45e27909f7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "3ac7ee071ffeea0f3e543caf3a527945012393364b58329c6ebb87b6608b81c4"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a526b5fa88d1112f611ec0d204998513d1f3e442"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "b998b6b240d6d38fd078dce2dafb3db428ebf07bfefbf9ec25eedc8444e8da6d"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-musl-libgfortran3-cxx03.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "603b5ef722f8034f85cbeb9ef7e5a60c9224cba1"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "229eb39a5b2d1cf459c057f6a5ffc686ce0b67f3b00e40df6a3f01f12a7bee67"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-musl-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d8799656b2572e9c27478d330dd8a490df6f1bb2"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "bf830bd7e132a499f6916b4e0729e181dc0153620e96d9dc6801ab3bc5c56356"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "0814fa232386eec1ee268a27c121deafa7a6beea9bcb0954ab13d2628a443f73"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-musl-libgfortran4-cxx03.tar.gz"
 [[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c13dec4c60ad16b41f88effccd97bdfd8fdb36fa"
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59586aca554072ab534eeee6f9752c35445faf68"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "317b3b60c5349c33c3333d737e586bccc047f62ebf5ce52ee37c3c7337f423de"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "f19d2a929ed63391eb15bfd36d9224ab406ff30eed1711eb12bec35c9c5e666a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-musl-libgfortran4-cxx11.tar.gz"
 [[HiGHS]]
-arch = "armv7l"
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "186f964fa0f9d684de6d1ccb520183e4c5d0a2eb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "489e87aaaae864181d9d69b839574ceb695bf5d2d44d3e74f766f1b2afa35d70"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ceb380729cb52004f3822be0ec410e71f99b0b0"
+git-tree-sha1 = "d473e04f929b0a44c1fd315b4b7dc684b111b9dd"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "84a9605980cd54da18398c2d035c4976bbd1be0ff61172cc308c6cd654932d38"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe83fea28f97b7360d8f14c053a594b37e3ffe11"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "0296b91a22a551af719ae5572c72954ba9447ea2b70e36240d02cae3b9f12ac3"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "10a2e4a42747eb2e5db00723f4f5515c4b81546229d9b0a0e9f99494baefe654"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[HiGHS]]
-arch = "aarch64"
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebe07f00b601cba2bb4487adeac6ae78822718fe"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "6f8aed1009a8c8dfcf21a9a9737de8558551a439031828fc3d3c9a02191a4d87"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c4e6fcd6eb54b842c0039a194d713283b589d443"
+git-tree-sha1 = "e959ac7bc6bfa9d94dd7b8a08c09eb717d3f217d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "66b0660defa1abdff13fffcb1debf2642733e6fef8a9c6fc71e3468b9b584f2a"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "a0f2fce23c0ba91885f72adce525d8831b0cbfc54cb69a7568b017f9e460d7f2"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[HiGHS]]
-arch = "x86_64"
+arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0839b6c072f5dce2aceee472f5929776e9c5edad"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "1ffc9f2e24acb1f9d8ae80d10dfff57169484e78217ed5c3c2e71b154edcb2ef"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf1f1de21f29fcf2e62ade9b1306a57e8af56a5e"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "0f8b334cb3b283051d146921d3734c6ce0c6ad68f621428d01ae1e8175766e5f"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1dd25ed135d47d9fa012b98cfb26168eba8c2cf"
+git-tree-sha1 = "3952ebfae915f25611adaa335b2d2a837b0bcba1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "48e6d8cf4db7b8a04c295a66b00f5433acbee7f5ec7a0711478b674d13d033cf"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "c9b28077eb38d915d9ed65aaba2ab14df7c53d2c3cedcd39c41ad2da18a711aa"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6cc331dab82879686e5ce2dbc5c3379a6a16c167"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "40e3aec78836089ed863dbbdd80443828a01bf0da87dced6aa78433262d469c7"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ddef6b0a9970ed9de165a17dfcad36454b819711"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "a0a1dedc17ce5e0f9654be3155c2e230628dfc787d367af76daaae02d533761e"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "fdd1aac2576c170f27385b7bfef932be252f3989"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c27e2b8d0ed152a5f3ff664b059420778ecbddd4"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[HiGHS.download]]
-    sha256 = "91456795d1255d36b27a1a6227e4c921bbc9f5fa09f3f2373810211d5028aa25"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-apple-darwin14-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5caedcad54db9dcef8e3caccfd3407f0e3334f7f"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "515b29838368f1448a2ed48587447cc6490b962acccd303ddd2113a8f588cd0b"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "94766db6117a8266d338cd36d7f808d5259e9ecd"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "3ea2152d825a4e88dc169399d1cdb869372ebeb17ce39c65fba95966e6e9ad6c"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "92b8541b0096cc46619cbeef0c7ae0fe9a53289f"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "c427803c4de9fd6c5a0ab35d0a4bae403055c5a4afb816d7e93515e721392888"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3d8c88d7bd5a074499724d02569a931676c64c9"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "fa4ffa9f9104e1046038f83120cea0d75d393eed3d01bf4ee0dad5c248bee84d"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-musl-libgfortran5-cxx11.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "83f21dfe14cb0da1ba8779279ca24c7a987cc860"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "28365c49932b3501db391282669e6ca080e8869aaf1bb0f28880b1cf2eb7854e"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "8dd1b92cba0f86273abff66bd22fa8ec5da28c6dd816d8ef04a40e4d9c2033e0"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-apple-darwin14-libgfortran3-cxx03.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bfde690e0afcf2400ecac7f422fb94666bb8b59e"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[HiGHS.download]]
-    sha256 = "bb38646875ff8d401ce69f0394b78c7be35f06212d8fc597648cca9a49b56df4"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f374e1c0804a49469165a6063d536239c7a6f66c"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "1f006542f77e3f2d9aa5fe8ef321d9e172505e3d5083dcb78a18b671d0e4ed74"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "98a36180839caa92be37b7b42ba58f6f1393a07f"
-libgfortran_version = "5.0.0"
-os = "freebsd"
-
-    [[HiGHS.download]]
-    sha256 = "66016eea7bd53d05629eaf51574063f961a6d49288efdbfdee27f07664f2a8fe"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran5-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5fd858aa6759ec174d9a83011961894cab2296f5"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "168a3fa2f34c6a71ce4b8bfbac7778aae0bcf59fe66dceea829702c0c71a220a"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dbfbf89e005a34d6806d2222c9446e3f6b947ab9"
-libgfortran_version = "5.0.0"
-os = "freebsd"
-
-    [[HiGHS.download]]
-    sha256 = "e9dcb1b3b14faffc244daa22bf14dbed616af2efbe2b0937b96b0e75c57a9554"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "db0da13ff88b4e4968e9d792572c8a018fe6a4cc"
-libgfortran_version = "5.0.0"
-os = "macos"
-
-    [[HiGHS.download]]
-    sha256 = "0134b4ff4e8166eaa00ad1e97370ce60a1f4be66b47e134fd9ac6131a3965f8f"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-apple-darwin14-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "da909cbb9344bffcca59379600bc4e20852fc5b0"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "bdb5b2f84e1804b9f42db7c46fa92e292ac667137c303acf66fd1400260dda6a"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "605bc8bd3a8974cb4133139b5222062ce1f6ec00"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "59bde8ff0c4097e26926059299a32a20da2db1af44912f16a4efd234f01d51ee"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1e5b6d8b92d8d22e5e7dee5a004c2b43adfe35a0"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "b0cb37fa0d7a92c5e506bef99060f9832f52da17ebbe202320d04cbcd2f69025"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a0014709babc03326556d252d6c3fbc3039092f7"
-libgfortran_version = "5.0.0"
-os = "macos"
-
-    [[HiGHS.download]]
-    sha256 = "a14ef266a39c1d3204b7d0e35d06a5aea13ed1b50f30f25a557ebb72b27efc0f"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-apple-darwin14-libgfortran5-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5bddf7b4e5b05dd606dac5c335ca21cae6b61e03"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[HiGHS.download]]
-    sha256 = "f02948306ebe268437e24678adbc3ee57d8b0f97aa6eb894f9db4fd8163dbe1d"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "83bf5407062a342357b4696c6785f211656554bc"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "f2909a3f6e0a842399246f3af73b435a53551f75ba0f969371deb3bb9a817cd7"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5309d24ed74c8396387f7cf6a0c60bcbe651e42e"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "e939d3c8cf1de2142ed96d132ab1d6b69c4ab64cd1ee6745078f937d3308c0a6"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "af50f328c7d3398d00cd619ded6b433f8f6d71a1"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "4df9cdc6036c2fac006151a17401592670f9ad190d6b79fc71728cebc1801f78"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9064623ba846213dcd81df6862fad786b301ad0"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "1aac7f9278eb8757b245de0226c211840a6aea09f6b91e516b76e6f10373bdcc"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5604c7bf9154b8d983a1d520ae6911fe9433caf4"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "abd0513868b02dc14395e7c92301bc8f0dd929b3c450505c5720d949dc85cd23"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c18daf660f07719c5f0df2830505077ebaac5389"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "f3b77b14797790c44c609a563e2298e7e4461022071a640fb421a204796a7f2b"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0881f1eca38aed67881e43dd3baa9f096f078a7c"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "9985e121937b405cf785cea46a88601d75c1157e2ee2f4c87d0e6f9bac4c11b7"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5908fda407d03ed6ff72e174a78db3644e9d5fb0"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "97af006955dbff72f1ec2ca7b95596bdb450236f1560dff7557c8fc64128bfcd"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f1a8d817d0e73f2be1ee32548032bcfcc4ee4e25"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "6c6fd02067747e178d952537f73797b2197d4df55759b64737eccb68ec12bff1"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "87fbb74a8617b18a05b23c63bff1b11a7868cd69"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[HiGHS.download]]
-    sha256 = "1d2f2d5e5c826e94be6585cab2ce5b723a4b44ceecf0c495047b063a4ee13857"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-apple-darwin14-libgfortran4-cxx03.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "44ab21a741ae85a707d3941ed82a81936c2f623e"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "1a370d6a8f51a0d2ea0e4a7021c047e8ee33e020d812660604b007b44c456dad"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8d01cf81ed67caf65fe17e4aa255e45a93bc4b89"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "d63652ed644a75d72fac074d7b1c391effe25e84cd5ebf7570fcdcc7a3e6c1f6"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b81ab2eab7e9852e9905fd197c7d6eb37b1eab6f"
+git-tree-sha1 = "fc1feafb1baf6abc273cf00e145be179e960e6c0"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[HiGHS.download]]
-    sha256 = "ba24a51c650cb5716af250a820138111d3fbb02801165b69ce95745d9a96cadd"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-apple-darwin14-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0145935131c52ff421d896caffb64a0959231f60"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "0499ea6d37fa2e35d92a8acd21b1bf322ef2492fad5e01cd253cce03c095a6c0"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd13ccb3bab3158bbbd4f95188e848ecd02d3b37"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "4aa1daf6abae49004f9db595ca4d3a98b4eb9a839fa70064f18aadef5d7ff656"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "89c536e26f5f4b6890853a8d0c9f738610ce2948"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "6addf30df914cefc325feef15f762cea4d999e0486ab3d80048150967244ab7f"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f68609df7ae872f60765e14420afee7079640483"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "b0afe69fbbb7acf3324de9c9058a24052418b40dcc02c8ad2982510039082be7"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d00d9cef7f85df8c88b2b547c558c8870c68334"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "82b85016ae3910554f1dac794aaa410ff88f72fa6139dfd98b94570b8e67df06"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "9369f751071acd49e092158c8c6fda2de4a1ab131baf5bd43eb0be9a34f86cb4"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-apple-darwin14-libgfortran3-cxx11.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2f493bf729df9db760081868d283f630f2dee495"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[HiGHS.download]]
-    sha256 = "93304fd0f26667e627b902d0eca9d7983b70d3a387d9b94ca3cd143e0d2cd6aa"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c42f61a4e173814fbe0cc183ca6b40ef813c0512"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "10ec0b005c6fb4fe0b64cacb7b74d49c9e2792c273366a58f1e95957e0dacf5d"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "149980ce56c2d959a4a18e677fae266cb40c1a93"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "6204ce9f6c3c09fb9dba623bbf0def407760fd3ec677c0e793ad74d67604d4a6"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "527522d1b5b11cfdf56ede561cc4b904810c5c7f"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "8ad529b16e187ac0d668f5f6fb5e88dd6331dd2a5930687dce988353a7d5fc6d"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-musl-libgfortran4-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "16c48fcd7a66d791dd28015399ccd897154db271"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "52b39061407524b918f9570526f01592f6501472afea74e12a09d0cdacb6dd29"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "aeccdef81672fe6078ddac5b45c363b87fa74c90"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "b7da117ea0d8a86e185dc4554e28a83d5f7d24fba1406cb1d7ed01742b055138"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-musl-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fc86267bb2b3cd85a27acd8254d74db3403bd686"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "dfbce862067b794f7a4e8afac6ac9240d64de8695b596c40e810160e5662c6e3"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f68369aee3139dc4c6c8fe15047bae68f06d0a8f"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "9712da8e5b0dda21438dda226bb3be85bead3b4457ace77bf758e35faa78c2d6"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e101e2b1722380f1785b1535aafb77e9b0926db1"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "66f317d9bac12dcac1dea0db55c55ec0da92568a281ae70ab9327c4870900a4f"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e4a97067d6f12fe74e9a2bd2b3de71c92e06407a"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "406acf1672fbd244673b857b3d702a076e4f99f83565128816bc6741dffe3e77"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "9da8fdad04699b8e47dcd03190660fb7b9950250"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "f6492dbad375a0e4fc754a7ebc160b5d616d8f8d2c508de29d116501a56bb290"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-musl-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "54192861d9a8649f649f1bbb8ca2edcad5ee910c"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "643672c06703aeda4387962428a5a2500571065e6dffb95c814302af8888146b"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-musl-libgfortran3-cxx03.tar.gz"
-[[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6dc9d4382e881564e59ce097315f77b1b05519b6"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "29c265123efed08e89d8ca975649ba465e503d9573e0989527b3cdf14ae8c4d4"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8b70ec563cf317369d9522edd5e2d66b4b004350"
+git-tree-sha1 = "aa63af2f143035a8c8c97484616ffe7de3304722"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[HiGHS.download]]
-    sha256 = "e0f3a6f544178e135ffa647262eba831fc94b101d311e8fac13dfa0b19de1e83"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
+    sha256 = "9d194c0af1667641acb1be900513247b7c784e26fa0ab49125d9fe98843657b1"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-apple-darwin14-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b649f541d4801d5c293783897fe75977c0041f2"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[HiGHS.download]]
+    sha256 = "787e423cecb4be8216fbf82beab674e71d31392b17e280341e5d3a73f2b1270e"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "57c3be0f66ec5fc61e5720b4bbe8dc8bfbf1532b"
+git-tree-sha1 = "0b1b80ae0c4a98d49ac569d47a66130204bf7772"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HiGHS.download]]
+    sha256 = "b3aaf5ac5961c15b54166d13e12a1954da8a99957a6784819d847d1d6a2a275f"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-apple-darwin14-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12a2d0510debb1dad06ce84fd559cbe49e6a4ba4"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HiGHS.download]]
+    sha256 = "b2b7464726c376f2be36f6ea8c6275095c719d1a11c6da71d406c5241b8502cb"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-apple-darwin14-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d84d1a52130a74c3b10c0c02d66ada545c563609"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "e61257e57c982da61802de55e039fa22306378bc25f8268cb4daa36f65cb54ce"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "341b107ecab948d5fd4cbf8da571f1f63c9b7d26"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "1e537963633a6344a40495b61adeb478bfbadf0802f8695deefd4c0b109ca25c"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "32952e2582905f5d25567c5145556cfd3b38a205"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "1de82d8e3c3641360481f2723bfef99f87e72d79af5ce358e31ebcd4fec8b7d7"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0bc2869d0227ae4d94830e327e4148d7f2e3c571"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "ce78ac49bb9d91289ebe7a5b6fbca815fe424934959ea7f5910cdb6c98f85176"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f438f6e61f6f5b63fabf0c3eb829ffcc15136bfb"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "40e95399a771aa56e7dee405e368cc885e1aafecd7d7aa02ade6f133a5fca1f2"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abd427c02651ea39c0afc308c555b789cce1575b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "2c887c8fba4abc337ef876842d68669ef8c9a989d911cd00cd5ba887bd98d13e"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d5edfe27148789a29cd3e1e5e37e0c699e39417f"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "9cfca1b8e2a40d4b681b79976748b09b0cb3ac06d05ee812bb36b4f5e26f9aee"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "1ea2540ea90617222462478e0229aa701920e0be85355476d25f6256c18a2daf"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be1cd6ee478e02a825a7c8ce9a75895921a87b9c"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "64435e5d127a4fc8bc68a7ebea028904acffa1d787b7048230b11e6a2717fa99"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
-[[HiGHS]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b736c4b104b93282c683e07d0cdc2c7c6f94be39"
+git-tree-sha1 = "df6511b8518121e6b58861012a3fe8f9d0625f7a"
 libc = "musl"
-libgfortran_version = "5.0.0"
+libgfortran_version = "3.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "faf70baa817e9e6818068511cae42aceb9c6b625cb26ecf4fe167b360494649d"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "aa970c6144f9922c9e84940936144bbcdab82e8ff8f2453dfa8ac978d995dc49"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
 [[HiGHS]]
-arch = "i686"
+arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "09617c718a7b83dd9dcd5e6c45ac83e2716a8d43"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HiGHS.download]]
-    sha256 = "12ac5a1d72ab7fb16eef2ad3f0d7b2ddd0112cd27ac0a90432ebdf6b41d0dc08"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
-[[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc1bd10457fbf349aa8af43eddfce65d8ce53068"
+git-tree-sha1 = "292dedcf5e00925961c0ab28f6300de250a43bff"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "f5e455ee4f050e8b23eebced581717fdc67975941e033d39ed711e6a34e653dd"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "3d060b546cb903c4acdf9bc234725f4e9bf60e22119ac4166bc3921617cfecd2"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
 [[HiGHS]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec9895cc32f1b8acd75dbbf156f3ea02cea45b7b"
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "42c237690929707ca3a38a9b901db424332c9f80"
 libc = "musl"
-libgfortran_version = "3.0.0"
+libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "8fe317fd3249e61221dd1aff348e9f7aaa41d56bab402f2e63d04bd52c4bcea8"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "5102c3573dc20180f98e0fd69b192cbafd48bfd9d12978e99323501cad9126af"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
 [[HiGHS]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0bdceae354c6fb1194a2c1f34d6fef4e1cc87d16"
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81fe28e2772810bcbe47c2841f91f85b244b779c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "ec708420a3f68422cb177b89160501a32fcda859505e1d87e2cb59bce3f24c39"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.3+1/HiGHS.v0.1.3.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "f559f58c500051f250f00d740e756392e79cbc91151ce6327f70176c347c69fe"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0010e631c40ebb583c6a45384e6b6038794ebbe9"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HiGHS.download]]
+    sha256 = "e649cc4fd3e435e24a536f360dde07469b990a666404b22d3aa29cfb60ea63e6"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8881a1aebd66dddedff42bab08cf51362a90e80a"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[HiGHS.download]]
+    sha256 = "d3564fc9e93f91753da0cf395945632b705634114e6b265ecccbfe23013ad338"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-unknown-freebsd11.1-libgfortran3-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba565d052d2398406939c78e74380d9d9172cfbd"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[HiGHS.download]]
+    sha256 = "3eebb34c664d9b39fc12ce38f2b5294de9f9098a67cf427231123d231bef6d30"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-unknown-freebsd11.1-libgfortran3-cxx11.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "124bf0a890be8c43091ce79d3aafc8d457ffaab4"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[HiGHS.download]]
+    sha256 = "0687e421861a9ec6e69f9295d2accc21da9fdf9c9d911c9f1647f035dd45e54e"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-unknown-freebsd11.1-libgfortran4-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a23dd6cb19ace74c26dd89b6056a53e40167e833"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[HiGHS.download]]
+    sha256 = "42792f91aff24af60f0438c09fe669f196f229449cfa6c9e6483e3c30ccfeba8"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-unknown-freebsd11.1-libgfortran4-cxx11.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30f55f7414fa06f7645aefdf9a056aa802a21241"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[HiGHS.download]]
+    sha256 = "dae3a1dcda73031f8de825714b63c2cd21a39d4f3cbfc74259367fdf4545c70a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-unknown-freebsd11.1-libgfortran5-cxx03.tar.gz"
+[[HiGHS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "71fc27519410143458e16c321d179006c4eb4e1e"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[HiGHS.download]]
+    sha256 = "ca1ae3e469786650638fc499446832b45104bfc39fedef1342543792c9631295"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v0.1.4+0/HiGHS.v0.1.4.x86_64-unknown-freebsd11.1-libgfortran5-cxx11.tar.gz"

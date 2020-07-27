@@ -1,5 +1,9 @@
 module HiGHS_jll
 
+if isdefined(Base, :Experimental) && isdefined(Base.Experimental, Symbol("@optlevel"))
+    @eval Base.Experimental.@optlevel 0
+end                    
+                        
 if VERSION < v"1.3.0-rc4"
     # We lie a bit in the registry that JLL packages are usable on Julia 1.0-1.2.
     # This is to allow packages that might want to support Julia 1.0 to get the
