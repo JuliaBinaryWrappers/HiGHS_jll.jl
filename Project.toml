@@ -1,6 +1,6 @@
 name = "HiGHS_jll"
 uuid = "8fd58aa0-07eb-5a78-9b36-339c94fd15ea"
-version = "0.2.2+0"
+version = "0.2.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
