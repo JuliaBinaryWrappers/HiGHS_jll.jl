@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libhighs,
-        "lib/libhighs.1.4.0.dylib",
+        "lib/libhighs.1.4.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
