@@ -3,7 +3,7 @@ export highs, libhighs
 
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("HiGHS")
-JLLWrappers.@declare_library_product(libhighs, "libhighs.so.1.4")
+JLLWrappers.@declare_library_product(libhighs, "libhighs.so.1.5")
 JLLWrappers.@declare_executable_product(highs)
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
