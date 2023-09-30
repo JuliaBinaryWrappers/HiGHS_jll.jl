@@ -3,13 +3,13 @@ export highs, libhighs
 
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("HiGHS")
-JLLWrappers.@declare_library_product(libhighs, "@rpath/libhighs.1.5.dylib")
+JLLWrappers.@declare_library_product(libhighs, "@rpath/libhighs.1.6.dylib")
 JLLWrappers.@declare_executable_product(highs)
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libhighs,
-        "lib/libhighs.1.5.3.dylib",
+        "lib/libhighs.1.6.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
