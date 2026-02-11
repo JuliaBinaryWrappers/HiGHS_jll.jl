@@ -1,154 +1,154 @@
 [[HiGHS]]
 arch = "aarch64"
-git-tree-sha1 = "f5f7c2931d45251d41743d5238da3899265fd771"
+git-tree-sha1 = "bfc5dd76ef0fcf5b4190b11c714e8575adef4eb6"
 os = "macos"
 
     [[HiGHS.download]]
-    sha256 = "b80aa5af72d0ece03c39961ae6a5ddc144c42731f56aa7d6d9e8386e3e5538d0"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "85afddfd0032e23a6c757ea829e18ac53bbced59edf5f68d83e8d1494a564919"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.aarch64-apple-darwin.tar.gz"
 [[HiGHS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5ca72b2d84bb42813fb449d98e8d0bc1cf9e7ab8"
+git-tree-sha1 = "c4a7c36107246808b2dc450ec5e983ce452870ca"
 libc = "glibc"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "5049d1c0377ba7719a7420a81d95ba6f2499803ba01d638dc398a47b7fbc3f34"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c5488e12f4b3699907cb449126eba064c5e56a10b41e54b2a0d409fd52314b16"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[HiGHS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "32665bcb6b4c6c06fb2f716572a187fcf5a75dc5"
+git-tree-sha1 = "177613a73bcf7514013fb50c6e5b951f617194b9"
 libc = "musl"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "fcb402fdfe4f09a1cd08133bde67a0aec82bd9778823a2b50539761cc13d873c"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "2de386a8bd13c20500edae0f51379d0d980cd5e3d5382173e2f2ac0d9e2e2e04"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.aarch64-linux-musl-cxx11.tar.gz"
 [[HiGHS]]
 arch = "aarch64"
-git-tree-sha1 = "e7b0adedd4f90096489b89d8cbdf661d50b759e4"
+git-tree-sha1 = "e000d1addc80d9406562d33d23a83f68f0306b33"
 os = "freebsd"
 
     [[HiGHS.download]]
-    sha256 = "dd0317d0f573d01a87dbb9abe22efcd72139a0fff691ca4a95615601283f66a3"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "fb1f3a58af7c9aabdbb4e47c8d8a71f2cac8bb1978f3dbf6738ec3318689aaa4"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.aarch64-unknown-freebsd.tar.gz"
 [[HiGHS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d334a8b8bc040aa9c9eb3f01a77a78d9ecd35c2"
+git-tree-sha1 = "6a0258fad45975dd4f174dd89d816ce39f878fe3"
 libc = "glibc"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "33c6019013249214e2a0ef69d333e512341bf4fe5283fd98e8d6de77bbe0c493"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "0f5570bf7d6e0bf1cf0ec9d0fd5f5d3acd49ec05b84174d60abc525ae31b8a2e"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[HiGHS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5310a534cfde5934fc7d437ef08b7daea7348cdc"
+git-tree-sha1 = "064feeee405807ffb4e6033d4da8d39f48d7b53f"
 libc = "musl"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "e01b136316d4328817798f8a90587936ad23152b9de38eceeb6b764d6f5d3694"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "b8881956c08ef8454c233f585a1d294c6de6f6841ea56d23642e656f94abac4d"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[HiGHS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a7126037e81ce3a64d3ec9c93217f68ff314b56"
+git-tree-sha1 = "1f6575093bb951d2d5a1f9946b4a5f6ae2ee72e1"
 libc = "glibc"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "66e763ce86a786bc3289366b75ea4d0236fef67931a0533ac2135e5e87dc5db4"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "73f69bb01486fb68164e23eb5752761fbb85a5654d124407679628a805a29a4b"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[HiGHS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4bf1d9f9945ea9affc8226bf9bb5af7546a0340e"
+git-tree-sha1 = "f4a33a5527e6ba9ee268db78bb9e0a1553167f58"
 libc = "musl"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "8cfed06714113c4f980b52eff64b0c6976756d564f8fbf1ba16d315b13fe8c98"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "18de130061d99d1d32b4a6aac4a6c5b064857f4c0a56234964dcaf54fa0ec8a5"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[HiGHS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82213c71fc9cd8baa82ec4050d3e457a70023fc2"
+git-tree-sha1 = "599bbfbf9ca7f67a75c299331047cc51d7f06acf"
 libc = "glibc"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "0527f07894b0fbff3a19f2202728946bf5917ceb744c7eae341ee59bbd77d57c"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "08bd7617689937ee10accf9b866ec4f0ae695bba60bee0b0e632ae8518309da8"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.i686-linux-gnu-cxx11.tar.gz"
 [[HiGHS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b2a98435674f8d7f9bc2cc62c4c7fd1ad45c0cb"
+git-tree-sha1 = "0b572f09c90ef363b11511fbed6c6590848154fe"
 libc = "musl"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "5b072f707c3046e0cdca8bbecaa76f2c3911545ccf8df558bf310194e16efe65"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "eb18a7089e1fd876d009ddb73bdfe12adb8ccf2ff0a42808e5afc39ed6b4b21a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.i686-linux-musl-cxx11.tar.gz"
 [[HiGHS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b41ef3af9d2d0bb91b19d895c79a5a544f62d25"
+git-tree-sha1 = "5aa94fc1a51946aec57c7415de62c50742659e2f"
 os = "windows"
 
     [[HiGHS.download]]
-    sha256 = "29c0d474aeb6e92db4a80373f71a609941850770b008d6c12b2a2592f9c9a39b"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a35a4883e799d6478c3aa2b74f130df905aa5bde3a01d4f937e5c196fa162685"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.i686-w64-mingw32-cxx11.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
-git-tree-sha1 = "2d0292fd49c2b3def56da35b72a5db6321eb111a"
+git-tree-sha1 = "81ff8faf25a41964b08b82bf9f983483580a5988"
 os = "macos"
 
     [[HiGHS.download]]
-    sha256 = "8d1362dd2f8c1becf1a59c54470ddf82daf0c327789794199107407ca0274db7"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "a22e19eae81b348b1b6e23ad3c315843e62dd8f33f158bf3b7f4d7b089e4a71a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.x86_64-apple-darwin.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "634f5b203e1b48dd0c38b141e6b690f494632d7c"
+git-tree-sha1 = "57846bf52e8d91e2d6dfef3b0e474315208dc524"
 libc = "glibc"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "a46f7b4703d1368458f2b2b279bff1b9477e708c18c79c4f644444dcaba59f5a"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "3bf8ba4b53be90f8a36d6ad12fdb09ab6ebe572aaa3ea405509daf7c2e10d7fb"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d7de210ef15a2f75b22e26311fd08cf38941eac8"
+git-tree-sha1 = "c449c7b2e6eddb7cec1fe664ed4f3067555c612d"
 libc = "musl"
 os = "linux"
 
     [[HiGHS.download]]
-    sha256 = "afab28ad7d7ce4fc8abc0070bad5d3b25f68fac077f481496aec28e7eff6fa80"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "398bafc6dee3369196bb3a42f0859661da4382300f045ee80fecba39d1d8119a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.x86_64-linux-musl-cxx11.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
-git-tree-sha1 = "50f42b1894f46c86a9f10bdb5db03e3e5c888330"
+git-tree-sha1 = "e0e4f9d5625d4f4d361eb50dc95df7402eded809"
 os = "freebsd"
 
     [[HiGHS.download]]
-    sha256 = "2cbc35e1260a323a01ec3bb29e2520ac8f4c613cdf932f9306cd363144516fb4"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "40bb13efb8783b2387058d68f13428f6d901f0159472876ca03d7c80b8ce6cb2"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.x86_64-unknown-freebsd.tar.gz"
 [[HiGHS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "34ce9afd60d67b66632b00fbefbdd3d856ea30d0"
+git-tree-sha1 = "850e1dc05307e8426ae5684d0138d75824edb262"
 os = "windows"
 
     [[HiGHS.download]]
-    sha256 = "7a00e93bf7783fc67b4807a52240fff53a72b1a7000e59883170e57e7318e374"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.0+0/HiGHS.v1.13.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "5c2b5d7d0caa8b22124c640f982819bc636e0eb2542e718a821260e143ee868f"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.13.1+0/HiGHS.v1.13.1.x86_64-w64-mingw32-cxx11.tar.gz"
