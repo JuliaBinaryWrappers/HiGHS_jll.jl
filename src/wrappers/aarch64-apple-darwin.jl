@@ -11,7 +11,7 @@ function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, Zlib_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
         libhighs,
-        "lib/libhighs.1.14.dylib",
+        "lib/libhighs.1.15.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
